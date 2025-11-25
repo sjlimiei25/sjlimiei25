@@ -14,6 +14,6 @@
 
 ### GitHub Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjlimiei25&theme=dracula" width="48%" style="height:10em"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sjlimiei25&theme=dracula" width="48%" style="height:10em"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjlimiei25&hide_progress=true" width="48%" style="height:10em"/>
 </div>
